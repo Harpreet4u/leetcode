@@ -1,6 +1,7 @@
 "use strict";
 
-//complexity O(n) and space O(n)
+// Problem: https://leetcode.com/problems/two-sum/
+// Complexity O(n) and space O(n)
 
 /**
  * @param {number[]} nums
